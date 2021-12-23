@@ -1,0 +1,23 @@
+//BookTs
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+	int i, n;
+	long S;
+	S = 1;
+	i = 1;
+	printf("\nNhap n: ");
+	scanf("%d", &n);
+
+	while(i <= n)
+	{
+		S = S*2*i;
+		i++;
+	}
+	printf("\nTong 1 * 2 * ... * %d la %ld: ", n, S);
+	getch();
+	return 0;
+}
+

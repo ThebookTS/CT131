@@ -1,0 +1,7 @@
+1          Nguyen     Van                  A          20         Nam        9.00       8.00       9.00       8.67      
+2          Nguyen     Van                  B          20         Nam        8.00       9.00       8.00       8.33      
+3          Nguyen     Van                  C          20         Nu         7.00       8.00       7.00       7.33      
+4          Nguyen     Van                  D          20         Nu         7.00       8.00       7.00       7.33      
+5          Nguyen     Van                  E          22         Nam        8.00       9.00       7.00       8.00      
+7          Nguyen     Van                  T          20         Nam        8.00       7.00       9.00       8.00      
+11         Nguyen     Van                  O          20         Nam        8.00       9.00       7.00       8.00          

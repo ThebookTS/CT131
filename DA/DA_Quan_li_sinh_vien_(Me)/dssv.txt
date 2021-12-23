@@ -1,0 +1,12 @@
+Lop          MSSV         Ho         Ten dem              Ten        Gioi tinh  Ngay sinh    Que quan
+TN19Y        B19123       TRAN       VAN                  A          NAM        7 -6 -2000   AN GIANG    
+TN9T         B19124       NGUYEN     VAN                  B          NAM        7 -3 -2000   DONG THAP   
+TZ65         B19125       LE         VAN                  T          NAM        13-7 -2000   VINH LONG   
+TN18Z        B19126       TRAN       VAN                  H          NAM        8 -11-2001   SOC TRANG   
+TN19Y        B19127       NGUYEN     LE                   C          NAM        5 -10-2001   CAN THO     
+TN19Y        B19128       TRAN       VAN                  E          NAM        7 -9 -2001   AN GIANG    
+TN19T        B19129       TRAN       VAN                  K          NAM        15-4 -2001   KIEN GIANG  
+TN19Z        B19130       TRAN       VAN                  P          NAM        5 -2 -2001   TIEN GIANG  
+TN19Y8A      B19131       NGUYEN     VAN                  P          NAM        19-5 -2001   CAN THO     
+TN18SZ       B19132       NGUYEN     VAN                  M          NAM        19-12-2001   CAN THO     
+TN16Y8A      B19133       NGUYEN     VAN                  Q          NAM        15-4 -2002   AN GIANG    
